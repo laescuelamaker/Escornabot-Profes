@@ -18,8 +18,7 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 5. Control mediante Bluetooth
 6. Control Wifi
 7. Librería para Escornabot
-8. Escornabot y Visualino
-9. Artículos
+8. Artículos
 
 ![licencia](images/licencia.png)
 
@@ -135,15 +134,9 @@ en el club de Tecnología, programación y robótica de Granada.
 
 * [Librería](https://github.com/escornabot/libreria-arduino)
 
-* [Como instalarla y usarla]
-(https://github.com/escornabot/libreria-arduino/blob/master/manual/manual_libreria.pdf)
+* [Como instalarla y usarla](https://github.com/escornabot/libreria-arduino/blob/master/manual/manual_libreria.pdf)
 
-
-# 8. Escornabot y Visualino
-
-
-
-# 9. Artículos, Videos y Webs Interesantes
+# 8. Artículos, Videos y Webs Interesantes
 
 1. [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
 2. [Web PabloRubma EscornaFan](http://pablorubma.cc/)
