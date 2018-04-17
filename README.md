@@ -48,25 +48,23 @@ Es un projecto de [open hardware](http://es.wikipedia.org/wiki/Hardware_libre) y
 
 # 2. Montaje
 
-Existen varias versiones del robot Escornabot, pero vamos a centrarnos en 3 modelos bastante extendidos como son la versión 2.12 de [XDeSIG](https://twitter.com/xdesig?lang=es), la versión DIY [@pablorubma](https://twitter.com/pablorubma?lang=es) ) y la versión Ogaki creada por [abiertocc](https://twitter.com/abiertocc?lang=es)
+Existen varias versiones del robot Escornabot, pero vamos a centrarnos en 3 modelos bastante extendidos como son la versión 2.12 de [XDeSIG](https://twitter.com/xdesig?lang=es), la versión DIY [@pablorubma](https://twitter.com/pablorubma?lang=es) ) y la versión Ogaki creada por [abiertocc](https://twitter.com/abiertocc?lang=es). **Imágenes de Musikawa(http://www.musikawa.es/3dkawa/pon-un-escornabot-en-tu-vida/)**
 
 ### Versión 2.12 de XDeSIG
 
 ![Escornabot](images/escornabot_xdesign.jpg)
-**Imagen de Musikawa(http://www.musikawa.es/3dkawa/pon-un-escornabot-en-tu-vida/)**
 
 * [Montaje en la web de Pablo Rubio](http://pablorubma.cc/escornabot/version-2-12-xdesig/)
 
 ### Versión DIY con botonera de xdesig
 
 ![Escornabot](images/escorna_diy.jpg)
-**Imagen de Musikawa(http://www.musikawa.es/3dkawa/pon-un-escornabot-en-tu-vida/)**
 
-* [Montaje en la web de Panlo Rubio](http://pablorubma.cc/escornabot/version-diy/)
+* [Montaje en la web de Pablo Rubio](http://pablorubma.cc/escornabot/version-diy/)
 
 ### Version Ogaki
 
-![Escornabot](images/escornabot_ogaki.jpg)**Imagen de Musikawa(http://www.musikawa.es/3dkawa/pon-un-escornabot-en-tu-vida/)**
+![Escornabot](images/escornabot_ogaki.jpg)
 
 * [Guía de Montaje](https://sites.google.com/abierto.cc/ogaki?pli=1)
 
