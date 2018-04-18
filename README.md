@@ -10,7 +10,7 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 1. [¿Qué es Escornabot?](https://github.com/laescuelamaker/Escornabot-Profes#1-qu%C3%A9-es-escornabot)
 2. [Montaje](https://github.com/laescuelamaker/Escornabot-Profes#2-montaje)
 3. [¿Cómo instalarlo en Arduino?](https://github.com/laescuelamaker/Escornabot-Profes#3-c%C3%B3mo-instalarlo-en-arduino)
-4. Actividades:
+4. [Actividades:](https://github.com/laescuelamaker/Escornabot-Profes#4-actividades)
 	  1. [Tableros](https://github.com/laescuelamaker/Escornabot-Profes#41-tableros)
 	  2. [Entradas blog](https://github.com/laescuelamaker/Escornabot-Profes#42-blogs-y-lista-de-correo)
 	  3. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#43-v%C3%ADdeos)
@@ -19,6 +19,7 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 6. [Control Wifi](https://github.com/laescuelamaker/Escornabot-Profes#6-control-mediante-wifi)
 7. [Librería para Escornabot](https://github.com/laescuelamaker/Escornabot-Profes#7-librer%C3%ADa-para-escornabot)
 8. [Escornabot para personas con discapacidad visual](https://github.com/laescuelamaker/Escornabot-Profes#8-escornabot-para-personas-con-discapacidad-visual)
+		1. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#81-v%C3%ADdeos)
 9. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#9-art%C3%ADculos-videos-y-webs-interesantes)
 
 ![licencia](images/licencia.png)
@@ -147,11 +148,11 @@ Súper interesante ver como se trabaja la robótica y la programación en person
 
 ## 8.1 Vídeos
 
-* [Escornabot. Manejando MuWi con TalkBack](https://www.youtube.com/watch?v=JPLcyNsbmC0)Control del Escornabot mediante comandos de voz para Android.
+* [Escornabot. Manejando MuWi con TalkBack](https://www.youtube.com/watch?v=JPLcyNsbmC0). Control del Escornabot mediante comandos de voz para Android.
 
-* [Escornabot. Manejando MuWi con VoiceOver](https://www.youtube.com/watch?v=uggEN1ySQ6c)Control del robot mediante voz para dispositivos Apple.
+* [Escornabot. Manejando MuWi con VoiceOver](https://www.youtube.com/watch?v=uggEN1ySQ6c). Control del robot mediante voz para dispositivos Apple.
 
-* [Escornabot. Manejando MuWi con Jaws](https://www.youtube.com/watch?v=SPK9UCEzZ6w)Control de voz para el Escornabot desde PC.
+* [Escornabot. Manejando MuWi con Jaws](https://www.youtube.com/watch?v=SPK9UCEzZ6w). Control de voz para el Escornabot desde PC.
 
 # 9. Artículos, Videos y Webs Interesantes
 
