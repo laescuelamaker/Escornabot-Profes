@@ -137,11 +137,21 @@ en el club de Tecnología, programación y robótica de Granada.
 
 # 8. Escornabot para personas con discapacidad visual
 
+Súper interesante ver como se trabaja la robótica y la programación en personas con discapacidad visual. Gracias a [@rositamarytiflo](https://twitter.com/rositamarytiflo) por la información sobre el trabajo que está haciendo.
+
 * [Canal telegram TifloRobótica](https://t.me/joinchat/EnWGWQ-yFPERaLlzMian1g)
 
 * [Twitter Rosa M Garrido](https://twitter.com/rositamarytiflo)
 
 * [Twitter Carlos Mallo](https://twitter.com/carlosmallo)
+
+## 8.1 Vídeos
+
+* [Escornabot. Manejando MuWi con TalkBack](https://www.youtube.com/watch?v=JPLcyNsbmC0)Control del Escornabot mediante comandos de voz para Android.
+
+* [Escornabot. Manejando MuWi con VoiceOver](https://www.youtube.com/watch?v=uggEN1ySQ6c)Control del robot mediante voz para dispositivos Apple.
+
+* [Escornabot. Manejando MuWi con Jaws](https://www.youtube.com/watch?v=SPK9UCEzZ6w)Control de voz para el Escornabot desde PC.
 
 # 9. Artículos, Videos y Webs Interesantes
 
