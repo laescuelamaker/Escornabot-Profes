@@ -7,19 +7,19 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 
 ## Indice
 
-1. ¿Qué es Escornabot?
-2. Montaje
-3. ¿Cómo instalarlo en Arduino?
+1. [¿Qué es Escornabot?](https://github.com/laescuelamaker/Escornabot-Profes#1-qu%C3%A9-es-escornabot)
+2. [Montaje](https://github.com/laescuelamaker/Escornabot-Profes#2-montaje)
+3. [¿Cómo instalarlo en Arduino?](https://github.com/laescuelamaker/Escornabot-Profes#3-c%C3%B3mo-instalarlo-en-arduino)
 4. Actividades:
-	  1. Tableros
-	  2. Entradas blog
-	  3. Vídeos  
-    4. Disfraces
-5. Control mediante Bluetooth
-6. Control Wifi
-7. Librería para Escornabot
-8. Escornabot para personas con discapacidad visual
-9. Artículos
+	  1. [Tableros](https://github.com/laescuelamaker/Escornabot-Profes#41-tableros)
+	  2. [Entradas blog](https://github.com/laescuelamaker/Escornabot-Profes#42-blogs-y-lista-de-correo)
+	  3. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#43-v%C3%ADdeos)
+    4. [Disfraces](https://github.com/laescuelamaker/Escornabot-Profes#44-disfraces)
+5. [Control mediante Bluetooth](https://github.com/laescuelamaker/Escornabot-Profes#5-control-mediante-bluetooth)
+6. [Control Wifi](https://github.com/laescuelamaker/Escornabot-Profes#6-control-mediante-wifi)
+7. [Librería para Escornabot](https://github.com/laescuelamaker/Escornabot-Profes#7-librer%C3%ADa-para-escornabot)
+8. [Escornabot para personas con discapacidad visual](https://github.com/laescuelamaker/Escornabot-Profes#8-escornabot-para-personas-con-discapacidad-visual)
+9. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#9-art%C3%ADculos-videos-y-webs-interesantes)
 
 ![licencia](images/licencia.png)
 
@@ -71,7 +71,7 @@ Existen varias versiones del robot Escornabot, pero vamos a centrarnos en 3 mode
 
 * [Video montaje chasis](https://www.youtube.com/watch?v=MUti2IQr4d8)
 
-* [Comprar](https://abierto.cc/shop/)
+* [Tienda](https://abierto.cc/shop/)
 
 # 3. ¿Cómo instalarlo en Arduino?
 
