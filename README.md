@@ -19,8 +19,7 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 6. [Control Wifi](https://github.com/laescuelamaker/Escornabot-Profes#6-control-mediante-wifi)
 7. [Librería para Escornabot](https://github.com/laescuelamaker/Escornabot-Profes#7-librer%C3%ADa-para-escornabot)
 8. [Escornabot para personas con discapacidad visual](https://github.com/laescuelamaker/Escornabot-Profes#8-escornabot-para-personas-con-discapacidad-visual)
-
-		1. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#81-v%C3%ADdeos)
+	1. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#81-v%C3%ADdeos)
 9. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#9-art%C3%ADculos-videos-y-webs-interesantes)
 
 ![licencia](images/licencia.png)
