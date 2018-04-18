@@ -156,8 +156,9 @@ Súper interesante ver como se trabaja la robótica y la programación en person
 
 # 9. Artículos, Videos y Webs Interesantes
 
-1. [Web oficial Escornabot](http://escornabot.com/web/es)
-2. [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
-3. [Web PabloRubma EscornaFan](http://pablorubma.cc/)
-4. [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0)
-5. [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM)
+* [Web oficial Escornabot](http://escornabot.com/web/es)
+* [Descargas Web Escornabot](http://escornabot.com/web/es/content/descargas-y-enlaces-directos). Firmware de Arduino, Ficheros STL para imprimir piezas, Esquemas y gerbers de la PCB, Aplicaciones móviles, guía de montaje de Brivoi(en gallego), Placidus(en gallego) y Singularis(gallego, catalán y castellano), guía de soldadura Singularis(gallego, castellano, catalán)
+* [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
+* [Web PabloRubma EscornaFan](http://pablorubma.cc/)
+* [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0)
+* [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM)
