@@ -137,15 +137,16 @@ en el club de Tecnología, programación y robótica de Granada.
 
 # 8. Escornabot para personas con discapacidad visual
 
-[Canal telegram TifloRobótica](https://t.me/joinchat/EnWGWQ-yFPERaLlzMian1g)
+* [Canal telegram TifloRobótica](https://t.me/joinchat/EnWGWQ-yFPERaLlzMian1g)
 
-[Twitter Rosa M Garrido](https://twitter.com/rositamarytiflo)
+* [Twitter Rosa M Garrido](https://twitter.com/rositamarytiflo)
 
-[Twitter Carlos Mallo](https://twitter.com/carlosmallo)
+* [Twitter Carlos Mallo](https://twitter.com/carlosmallo)
 
 # 9. Artículos, Videos y Webs Interesantes
 
-1. [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
-2. [Web PabloRubma EscornaFan](http://pablorubma.cc/)
-3. [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0)
-4. [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM)
+1. [Web oficial Escornabot](http://escornabot.com/web/es)
+2. [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
+3. [Web PabloRubma EscornaFan](http://pablorubma.cc/)
+4. [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0)
+5. [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM)
