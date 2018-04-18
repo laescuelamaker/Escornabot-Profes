@@ -18,7 +18,8 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 5. Control mediante Bluetooth
 6. Control Wifi
 7. Librería para Escornabot
-8. Artículos
+8. Escornabot para personas con discapacidad visual
+9. Artículos
 
 ![licencia](images/licencia.png)
 
@@ -134,7 +135,15 @@ en el club de Tecnología, programación y robótica de Granada.
 
 * [Como instalarla y usarla](https://github.com/escornabot/libreria-arduino/blob/master/manual/manual_libreria.pdf)
 
-# 8. Artículos, Videos y Webs Interesantes
+# 8. Escornabot para personas con discapacidad visual
+
+[Canal telegram TifloRobótica](https://t.me/joinchat/EnWGWQ-yFPERaLlzMian1g)
+
+[Twitter Rosa M Garrido](https://twitter.com/rositamarytiflo)
+
+[Twitter Carlos Mallo](https://twitter.com/carlosmallo)
+
+# 9. Artículos, Videos y Webs Interesantes
 
 1. [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
 2. [Web PabloRubma EscornaFan](http://pablorubma.cc/)
