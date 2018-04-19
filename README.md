@@ -20,7 +20,8 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 7. [Librería para Escornabot](https://github.com/laescuelamaker/Escornabot-Profes#7-librer%C3%ADa-para-escornabot)
 8. [Escornabot para personas con discapacidad visual](https://github.com/laescuelamaker/Escornabot-Profes#8-escornabot-para-personas-con-discapacidad-visual)
 	1. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#81-v%C3%ADdeos)
-9. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#9-art%C3%ADculos-videos-y-webs-interesantes)
+9. [Escornabot con Visualino](https://github.com/laescuelamaker/Escornabot-Profes#10-escornabot-con-visualino)
+10. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#10-art%C3%ADculos-videos-y-webs-interesantes)
 
 ![licencia](images/licencia.png)
 
@@ -154,11 +155,38 @@ Súper interesante ver como se trabaja la robótica y la programación en person
 
 * [Escornabot. Manejando MuWi con Jaws](https://www.youtube.com/watch?v=SPK9UCEzZ6w). Control de voz para el Escornabot desde PC.
 
-# 9. Artículos, Videos y Webs Interesantes
+# 9. Escornabot con Visualino
 
-* [Web oficial Escornabot](http://escornabot.com/web/es)
-* [Descargas Web Escornabot](http://escornabot.com/web/es/content/descargas-y-enlaces-directos). Firmware de Arduino, Ficheros STL para imprimir piezas, Esquemas y gerbers de la PCB, Aplicaciones móviles, guía de montaje de Brivoi(en gallego), Placidus(en gallego) y Singularis(gallego, catalán y castellano), guía de soldadura Singularis(gallego, castellano, catalán)
-* [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html)
-* [Web PabloRubma EscornaFan](http://pablorubma.cc/)
-* [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0)
-* [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM)
+Puedes controlar al Escornabot con Visualino, un programa que nos permite la programación de Arduino de forma visual mediante bloques que tenemos que conectar.
+
+Para añadir los bloques:
+
+* Descargate Visualino de su [Web Oficial](http://visualino.net/)
+
+* Entra en el repositorio de [Josema966](https://gitlab.com/josema966/html) y sigue sus instrucciones. Sólo tienes que clonar o descargar el zip dentro de la carpeta donde esta Visualino. Listo! Al abrir Visualino ya te deberían de aparecer la sección de Escornabot con los bloques disponibles
+
+![Visualino-escornabot](images/visualino-escornabot.png)
+
+# 10. Webs, artículos, vídeos y repositorios interesantes.
+
+1. Webs.
+* [Web oficial Escornabot](http://escornabot.com/web/es): Web Oficial del proyecto Escornabot.
+* [Descargas Web Escornabot](http://escornabot.com/web/es/content/descargas-y-enlaces-directos): Firmware de Arduino, Ficheros STL para imprimir piezas, Esquemas y gerbers de la PCB, Aplicaciones móviles, guía de montaje de Brivoi(en gallego), Placidus(en gallego) y Singularis(gallego, catalán y castellano), guía de soldadura Singularis(gallego, castellano, catalán)
+* [Web PabloRubma EscornaFan](http://pablorubma.cc/): Web del EscornaFan con información muy bien organizada.
+
+
+2. Artículos
+* [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html): Artículo en la revista comunicación y pedagogia por Jorge Lobo y Tucho Méndez
+
+3. Vídeos
+* [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0): Entrevista a Pablo Rubio sobre Escornabots.
+* [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM): Como soldar una placa para el Escornabot Singularis/DIY (En gallego)
+
+4. Repositorios
+
+* [Firmware Arduino Escornabot](https://github.com/escornabot/arduino)
+* [Tarjetas, esquemáticos...](https://github.com/escornabot/electronics)
+* [Modelos 3D](https://github.com/escornabot/3dmodel)
+* [Aplicación Android para controlar el robot](https://github.com/escornabot/android)7
+* [Documentación extra](https://github.com/escornabot/docs): tableros, buggy stepper...
+* [Escornabot DIY de Pablo Rubio](https://github.com/pablorubma/escornabot-DIY)
