@@ -21,7 +21,7 @@ Material recopilado de distintas fuentes para trabajar con el robot Escornabot. 
 8. [Escornabot para personas con discapacidad visual](https://github.com/laescuelamaker/Escornabot-Profes#8-escornabot-para-personas-con-discapacidad-visual)
 	1. [Vídeos](https://github.com/laescuelamaker/Escornabot-Profes#81-v%C3%ADdeos)
 9. [Escornabot con Visualino](https://github.com/laescuelamaker/Escornabot-Profes#10-escornabot-con-visualino)
-10. [Artículos](https://github.com/laescuelamaker/Escornabot-Profes#10-art%C3%ADculos-videos-y-webs-interesantes)
+10. [Webs, artículos, vídeos y repositorios interesantes.](https://github.com/laescuelamaker/Escornabot-Profes#10-art%C3%ADculos-videos-y-webs-interesantes)
 
 ![licencia](images/licencia.png)
 
