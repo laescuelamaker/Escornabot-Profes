@@ -88,6 +88,9 @@ Existen varias versiones del robot Escornabot, pero vamos a centrarnos en 3 mode
 
 ## 4.1 Tableros
 
+![tablero](images/tablero_escornabot.jpg)
+*Imagen de [Escornabot Wiki](https://escornabot.org/wiki/index.php/Recursos)*
+
 * [Wiki Escornabot](https://escornabot.org/wiki/index.php/Recursos#Tableros)
 
 * [Github Escornabot](https://github.com/escornabot/docs/tree/master/Escornabot_Mats)
@@ -114,6 +117,8 @@ Algunos videos con actividades realizadas.
 ## 4.4 Disfraces
 
 Ideas para realizar disfraces con goma eva a nuestros robots.
+
+![disfraz](images/disfraz_brivoi.jpg)
 
 * [Disfraces para Escornabot](https://github.com/pablorubma/escornabot-DIY/tree/master/disfraces)
 
@@ -185,22 +190,23 @@ Puedes controlar al Escornabot con Visualino, un programa que nos permite la pro
 
 # 10. Webs, artículos, vídeos y repositorios interesantes.
 
-1. Webs.
+1. **Webs**
 * [Web oficial Escornabot](http://escornabot.com/web/es): Web Oficial del proyecto Escornabot.
 * [Descargas Web Escornabot](http://escornabot.com/web/es/content/descargas-y-enlaces-directos): Firmware de Arduino, Ficheros STL para imprimir piezas, Esquemas y gerbers de la PCB, Aplicaciones móviles, guía de montaje de Brivoi(en gallego), Placidus(en gallego) y Singularis(gallego, catalán y castellano), guía de soldadura Singularis(gallego, castellano, catalán)
+* [Recursos Wiki Escornabot](https://escornabot.org/wiki/index.php/Recursos): Juegos, materiales, máscaras, tableros, tarjetas, dados, experiencias.
 * [Web PabloRubma EscornaFan](http://pablorubma.cc/): Web del EscornaFan con información muy bien organizada.
 
 
-2. Artículos
+2. **Artículos**
 * [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html): Artículo en la revista comunicación y pedagogia por Jorge Lobo y Tucho Méndez
 
 * [Imprimiendo tableros 3D para Escornabot](https://bibliobn.blogspot.com.es/2018/04/impresion-3d-taboleiros-para-o.html)
 
-3. Vídeos
+3. **Vídeos**
 * [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0): Entrevista a Pablo Rubio sobre Escornabots.
 * [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM): Como soldar una placa para el Escornabot Singularis/DIY (En gallego)
 
-4. Repositorios
+4. **Repositorios**
 
 * [Firmware Arduino Escornabot](https://github.com/escornabot/arduino)
 * [Tarjetas, esquemáticos...](https://github.com/escornabot/electronics)
