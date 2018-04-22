@@ -194,6 +194,8 @@ Puedes controlar al Escornabot con Visualino, un programa que nos permite la pro
 2. Artículos
 * [Escornabot: tu proyecto de robótica educativa](http://ceipmiskatonic.blogspot.com.es/2016/10/articulo-de-escornabot-en-la-revista.html): Artículo en la revista comunicación y pedagogia por Jorge Lobo y Tucho Méndez
 
+* [Imprimiendo tableros 3D para Escornabot](https://bibliobn.blogspot.com.es/2018/04/impresion-3d-taboleiros-para-o.html)
+
 3. Vídeos
 * [Escornabot La Hora Maker](https://www.youtube.com/watch?v=uJPLBcVRNZ0): Entrevista a Pablo Rubio sobre Escornabots.
 * [Soldando una placa botonera modelo XDeSIG](https://www.youtube.com/watch?v=ANkkMuZNLxM): Como soldar una placa para el Escornabot Singularis/DIY (En gallego)
