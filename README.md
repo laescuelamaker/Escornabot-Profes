@@ -71,6 +71,8 @@ Existen varias versiones del robot Escornabot, pero vamos a centrarnos en 3 mode
 
 * [Guía de Montaje](https://sites.google.com/abierto.cc/ogaki?pli=1)
 
+* [Web Pablo Rubio](http://pablorubma.cc/escornabot/version-ogaki-abiertocc/): Piezas impresas 3D, guía de montajes de componentes, guía montaje cuerpo, programaciones para Arduino Nano y Micro, como colocar el Arduino Nano en Ogaki.
+
 * [Video montaje chasis](https://www.youtube.com/watch?v=MUti2IQr4d8)
 
 * [Tienda](https://abierto.cc/shop/)
@@ -159,13 +161,27 @@ Súper interesante ver como se trabaja la robótica y la programación en person
 
 Puedes controlar al Escornabot con Visualino, un programa que nos permite la programación de Arduino de forma visual mediante bloques que tenemos que conectar.
 
-Para añadir los bloques:
+![Visualino-escornabot](images/visualino-escornabot.png)
+
+
+### Instalar Visualino en Windows
 
 * Descargate Visualino de su [Web Oficial](http://visualino.net/)
 
 * Entra en el repositorio de [Josema966](https://gitlab.com/josema966/html) y sigue sus instrucciones. Sólo tienes que clonar o descargar el zip dentro de la carpeta donde esta Visualino. Listo! Al abrir Visualino ya te deberían de aparecer la sección de Escornabot con los bloques disponibles
 
-![Visualino-escornabot](images/visualino-escornabot.png)
+### Instalar Visualino en Ubuntu
+
+* [Como instalar Visualino en Ubuntu](http://www.visualino.net/docs/ubuntu.es.html)
+
+* Entra en el repositorio de [Josema966](https://gitlab.com/josema966/html) y sigue sus instrucciones. Sólo tienes que clonar o descargar el zip dentro de la carpeta donde esta Visualino. Listo! Al abrir Visualino ya te deberían de aparecer la sección de Escornabot con los bloques disponibles
+
+### Instalar Visualino en información
+
+* [Como instalar Visualino en MacOsX](http://www.visualino.net/docs/macosx.es.html)
+
+* Entra en el repositorio de [Josema966](https://gitlab.com/josema966/html) y sigue sus instrucciones. Sólo tienes que clonar o descargar el zip dentro de la carpeta donde esta Visualino. Listo! Al abrir Visualino ya te deberían de aparecer la sección de Escornabot con los bloques disponibles
+
 
 # 10. Webs, artículos, vídeos y repositorios interesantes.
 
